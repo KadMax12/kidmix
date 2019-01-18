@@ -1,0 +1,72 @@
+body
+{
+    margin:0;
+
+    background-image:url(wq/5.jpg);
+    background-repeat: no-repeat;
+}
+header{
+    display:flex;
+    border:20px solid lightblue;
+    background-color: lightblue;
+
+}
+.hea{
+     text-align: center;
+    display: flex;
+   margin-left:62%;
+}
+.menu{
+        margin-right:2%;
+        margin-left:2%;
+    border: 10px solid darkgrey;
+    background-color: darkgrey;
+    padding: 1px;
+    display:flex ;
+
+    justify-content: space-around;
+}
+.menu a{
+        color: white;
+  text-decoration: none;
+
+}
+main{
+    font-family: fantasy;
+     font-size:27px;
+    margin-left: 30%;
+    margin-top: 15%;
+    color:green;
+}
+.main{
+    font-family:cursive;
+    font-size:21px;
+        margin-left: 7%;
+    color: lightseagreen;
+}
+.men{
+    margin-top: 23%;
+    display: block;
+            justify-content: center;
+    align-content: center;
+
+ text-align: center;
+}
+.he{
+     margin-top: 23%;
+    display: block;
+               justify-content: center;
+        align-content: center;
+ text-align: center;
+}
+.hi {
+     margin-top: 23%;
+    display: block;
+        align-content: center;
+     text-align: center;
+}
+.de {
+    display: flex;
+        justify-content: space-around;
+        align-content: center;
+}
